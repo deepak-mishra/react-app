@@ -1,0 +1,13 @@
+{
+  "info.unsupportedBrowser": "Welcome to Application",
+  "info.about": "About",
+  "menu.item_dashboard": "Dashboard",
+  "menu.item_about": "About",
+  "menu.item_login": "Login",
+  "info.email_required": "Email is required",
+  "info.password_required": "Password is required",
+  "info.email": "Email address",
+  "info.password": "Password",
+  "info.remember": "Remember Me",
+  "info.signin": "Sign in"
+}

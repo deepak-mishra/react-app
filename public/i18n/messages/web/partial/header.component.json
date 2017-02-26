@@ -1,0 +1,14 @@
+[
+  {
+    "id": "menu.item_dashboard",
+    "defaultMessage": "Dashboard"
+  },
+  {
+    "id": "menu.item_about",
+    "defaultMessage": "About"
+  },
+  {
+    "id": "menu.item_login",
+    "defaultMessage": "Login"
+  }
+]

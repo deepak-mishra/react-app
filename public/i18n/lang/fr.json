@@ -1,0 +1,13 @@
+{
+  "info.about": "Sur",
+  "info.email": "Adresse e-mail",
+  "info.email_required": "E-mail obligatoire",
+  "info.password": "Mot de passe",
+  "info.password_required": "Mot de passe requis",
+  "info.remember": "Souviens-toi de moi",
+  "info.signin": "se connecter",
+  "info.unsupportedBrowser": "Bienvenue à l'application",
+  "menu.item_about": "Sur",
+  "menu.item_dashboard": "Tableau de bord",
+  "menu.item_login": "S'identifier"
+}

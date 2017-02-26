@@ -1,0 +1,13 @@
+{
+  "info.about": "About",
+  "info.email": "Email address",
+  "info.email_required": "Email is required",
+  "info.password": "Password",
+  "info.password_required": "Password is required",
+  "info.remember": "Remember Me",
+  "info.signin": "Sign in",
+  "info.unsupportedBrowser": "Welcome to Application",
+  "menu.item_about": "About",
+  "menu.item_dashboard": "Dashboard",
+  "menu.item_login": "Login"
+}

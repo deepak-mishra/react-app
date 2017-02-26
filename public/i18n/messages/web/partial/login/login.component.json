@@ -1,0 +1,26 @@
+[
+  {
+    "id": "info.email_required",
+    "defaultMessage": "Email is required"
+  },
+  {
+    "id": "info.password_required",
+    "defaultMessage": "Password is required"
+  },
+  {
+    "id": "info.email",
+    "defaultMessage": "Email address"
+  },
+  {
+    "id": "info.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "info.remember",
+    "defaultMessage": "Remember Me"
+  },
+  {
+    "id": "info.signin",
+    "defaultMessage": "Sign in"
+  }
+]
